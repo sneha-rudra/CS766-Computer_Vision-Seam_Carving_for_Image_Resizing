@@ -1,4 +1,4 @@
-This application is based on OpenCV Python. Results can be found on the following website: https://cvis2017.wixsite.com/final-project
+This application is based on OpenCV Python. Results and implementation details can be found on the following website: https://cvis2017.wixsite.com/final-project
 
 
 Instructions for executing the code-
